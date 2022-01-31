@@ -1,1 +1,0 @@
-web: gunicorn tubers.wsgi --log-file -
