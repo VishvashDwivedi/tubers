@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#=m31(dj&@3%va+o)*3__vz@#d0@ebqml(_c92e%^2lmoy=%(z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [ '127.0.0.1', 'tubers6.herokuapp.com' ]
+ALLOWED_HOSTS = [ '127.0.0.1', 'tuber6.herokuapp.com' ]
 
 
 # Application definition
