@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-#=m31(dj&@3%va+o)*3__vz@#d0@ebqml(_c92e%^2lmoy=%(z'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [ '127.0.0.1', 'tuber4.herokuapp.com' ]
 
