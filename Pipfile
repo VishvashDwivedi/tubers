@@ -13,6 +13,7 @@ djangocms-admin-style = "*"
 django-ckeditor = "*"
 gunicorn = "*"
 whitenoise = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
